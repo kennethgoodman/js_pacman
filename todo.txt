@@ -1,0 +1,12 @@
+1. make game over if pacman touches ghosts or eats all the coins
+2. add the special coin - pelets
+	2a. toggle ghosts to be blue
+	2b. make ghosts eatable
+	2c. make ghosts go back home
+3. add animation so pacman gobbles the coins
+4. add orange ghost
+5. add blue ghost
+6. toggle difficulty per ghost
+7. toggle path-shower of each ghost
+8. add AI for pacman
+9. don't allow ghosts back in their home
