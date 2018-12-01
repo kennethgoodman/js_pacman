@@ -1,0 +1,92 @@
+
+*{
+  background-color: blue;
+}
+
+.pacman-page{
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  align-items: center;
+  position: relative;
+}
+
+h1 {
+  color: lightgray;
+}
+
+#pacman-board{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  width: 700px;
+}
+
+#pacman {
+  width: 50px;
+  height: 50px;
+  background-image: url("pacman.png");
+  background-size: 40px;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.ghost {
+  width: 50px;
+  height: 50px;
+  background-size: 40px;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.blinky {
+  background-image: url("blinky.svg");
+}
+
+.pinky {
+  background-image: url("pinky.svg");
+}
+
+.inky {
+  background-image: url("inky.svg");
+}
+
+.clyde {
+  background-image: url("clyde.svg");
+}
+
+.wall {
+  width: 50px;
+  height: 50px;
+  background-image: url("cobblewall.png");
+  background-size: 200px;
+  box-shadow: inset 1px 1px 1px black;
+  filter: invert(1);
+}
+
+.coin {
+  width: 50px;
+  height: 50px;
+  background-image: url("coin.png");
+  background-size: 10px;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.ground {
+  width: 50px;
+  height: 50px;
+  background-color: blue;
+}
+
+.game-over {
+  color: lightgray;
+  font-size: 200px;
+  position: absolute;
+  z-index: 1;
+  margin: auto;
+  align-self: center;
+  margin-right: 800px;
+  padding-left: 200px;
+  padding-right: 200px;
+}
