@@ -1,4 +1,6 @@
-1. make game over if pacman touches ghosts or eats all the coins
+1. make game
+	1a. over if pacman touches ghosts or 
+	1b. eats all the coins
 2. add the special coin - pelets
 	2a. toggle ghosts to be blue
 	2b. make ghosts eatable
