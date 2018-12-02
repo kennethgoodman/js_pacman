@@ -4,13 +4,9 @@
 	2b. make ghosts eatable
 	2c. make ghosts go back home
 3. add animation so pacman gobbles the coins
-4. add orange ghost
-5. add blue ghost
 6. toggle difficulty per ghost
 7. toggle path-shower of each ghost
 8. add AI for pacman
-9. don't allow ghosts back in their home
-10. add a score on the top left
 11. add levels
 	11a. make ghosts more difficult
 	11b. add game modes
@@ -20,3 +16,4 @@
 14. add graphic for ghost's home
 15. don't allow pacman into ghost's home
 16. allow user to slow down or speed up game
+17. keep track of high-score
