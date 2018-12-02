@@ -1,6 +1,7 @@
 1. make game over animation
 2. add the special coin - pelets
 	2c. make ghosts go back home - see 19
+	2d. add better color
 3. add animation so pacman gobbles the coins
 6. toggle difficulty per ghost
 7. toggle path-shower of each ghost
@@ -17,3 +18,4 @@
 17. keep track of high-score
 18. add lives
 19. need to add BFS to path-find for the target-tile instead of the simple birds-eye-view search 
+20. move html code for ghosts into ghost 
