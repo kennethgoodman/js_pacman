@@ -1,5 +1,5 @@
-1. make game
-	1a. over if pacman touches ghosts or 
+1. make game over
+	1a. pacman touches ghosts or 
 	1b. eats all the coins
 2. add the special coin - pelets
 	2a. toggle ghosts to be blue
@@ -12,3 +12,5 @@
 7. toggle path-shower of each ghost
 8. add AI for pacman
 9. don't allow ghosts back in their home
+10. add a score on the top left
+11. add levels
