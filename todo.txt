@@ -1,6 +1,4 @@
-1. make game over
-	1a. pacman touches ghosts or 
-	1b. eats all the coins
+1. make game over animation
 2. add the special coin - pelets
 	2a. toggle ghosts to be blue
 	2b. make ghosts eatable
@@ -14,3 +12,8 @@
 9. don't allow ghosts back in their home
 10. add a score on the top left
 11. add levels
+	11a. make ghosts more difficult
+	11b. add game modes
+		11b_1. keeps getting harder
+		11b_2. human controls difficulty of AI ghosts
+13. dynamically generate more levels
