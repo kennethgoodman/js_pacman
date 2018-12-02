@@ -17,3 +17,4 @@
 15. don't allow pacman into ghost's home
 16. allow user to slow down or speed up game
 17. keep track of high-score
+18. add lives
