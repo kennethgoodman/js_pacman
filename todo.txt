@@ -17,3 +17,6 @@
 		11b_1. keeps getting harder
 		11b_2. human controls difficulty of AI ghosts
 13. dynamically generate more levels
+14. add graphic for ghost's home
+15. don't allow pacman into ghost's home
+16. allow user to slow down or speed up game
