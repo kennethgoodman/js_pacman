@@ -1,6 +1,6 @@
 
 *{
-  background-color: blue;
+  background-color: black;
 }
 
 .pacman-page{
@@ -55,6 +55,10 @@ h1, h2, h3 {
   background-image: url("clyde.svg");
 }
 
+.scaredghost {
+  background-image: url("scaredghost.svg");
+}
+
 .wall {
   width: 25px;
   height: 25px;
@@ -73,10 +77,20 @@ h1, h2, h3 {
   background-position: center;
 }
 
+.pellet {
+  width: 25px;
+  height: 25px;
+  background-image: url("coin.png");
+  background-size: 10px;
+  background-repeat: no-repeat;
+  background-position: center;
+  filter: drop-shadow(3px 3px 4px blue) invert(30%);
+}
+
 .ground {
   width: 25px;
   height: 25px;
-  background-color: blue;
+  background-color: black;
 }
 
 .game-over {
